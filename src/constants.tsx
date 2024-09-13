@@ -1,0 +1,2 @@
+export const THUMBNAIL_PORTRAIT_DEFAULT_WIDTH: number = 8
+export const THUMBNAIL_LANDSCAPE_DEFAULT_WIDTH: number = 13
